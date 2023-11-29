@@ -1,3 +1,5 @@
+Chinese document [link](./README_EN.md)
+
 ## Installing JAKA Virtual Machine
 ---
 ### Installing Virtual Machine Software
