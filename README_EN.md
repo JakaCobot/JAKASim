@@ -1,4 +1,4 @@
-Chinese document [link](./README_EN.md)
+Chinese document [link](./README.md)
 
 ## Installing JAKA Virtual Machine
 ---
