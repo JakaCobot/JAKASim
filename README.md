@@ -1,4 +1,4 @@
-English document link: <a src="./README.md"></a>
+English document [link](./README_EN.md)
 
 ## 安装JAKA虚拟机
 ---
