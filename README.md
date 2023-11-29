@@ -1,3 +1,5 @@
+English document link: <a src="./README.md"></a>
+
 ## 安装JAKA虚拟机
 ---
 ### 安装虚拟机软件
