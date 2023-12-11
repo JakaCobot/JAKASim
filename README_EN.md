@@ -1,5 +1,7 @@
 Chinese document [link](./README.md)
 
+JAKA Sim [Download](https://github.com/JakaCobot/JAKASim/releases)
+
 ## Installing JAKA Virtual Machine
 ---
 ### Installing Virtual Machine Software

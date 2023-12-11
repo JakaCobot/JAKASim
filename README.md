@@ -1,5 +1,7 @@
 English document [link](./README_EN.md)
 
+虚拟机[下载](https://github.com/JakaCobot/JAKASim/releases)
+
 ## 安装JAKA虚拟机
 ---
 ### 安装虚拟机软件
